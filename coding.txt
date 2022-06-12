@@ -1,0 +1,15 @@
+12 + 00
+
+54 * 90
+
+19 % 82
+
+91 / 61
+
+70 - 122
+
+good data to transfer
+
+python file + branch 
+
+practicing - data testing
